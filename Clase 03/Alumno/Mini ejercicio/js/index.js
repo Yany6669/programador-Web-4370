@@ -4,3 +4,4 @@ var pass = prompt('Ingrese pass')
 while (pass === '' || pass === '1234') {
   pass = prompt('Ingrese pass')
 }
+

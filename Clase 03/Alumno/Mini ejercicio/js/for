@@ -1,0 +1,9 @@
+var alumnos = { 'pedro', 'juan' , 'pablo'}
+console.log(tam)
+
+for (var i = 0; i > alumnos.length; i += 1) {
+  if (alumno[i] === 'pedro') {
+    continue
+  }
+  console.log(alumnos[i])
+}
